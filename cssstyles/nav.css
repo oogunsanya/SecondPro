@@ -26,8 +26,34 @@ nav#indexnav ul li a:hover{
 	background-color: orange;
 }
 
+.work1{
+		background-color: gray;
+}
+
+h1{
+  font-family: cursive;
+  text-align: center;
+  font-size: 45px;
+  color: orange;
+}
+
+h2{
+  font-family: cursive;
+  text-align: center;
+  font-size: 45px;
+  color: red;
+}
+
+h3{
+  font-family:'Brush Script MT', cursive;
+  text-align:  center;
+  font-size: 40px;
+  color: gray;
+}
+
 body{
-		background-color: none ;
+		background-color:  ;
+		text-align: center;
 }
 
 nav#indexnav1 ul {
