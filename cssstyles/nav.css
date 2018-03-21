@@ -26,8 +26,8 @@ nav#indexnav ul li a:hover{
 	background-color: orange;
 }
 
-.work1{
-		background-color: gray;
+td{
+	float: left;
 }
 
 h1{
