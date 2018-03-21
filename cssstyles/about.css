@@ -48,6 +48,10 @@ nav#indexnav1 ul li a:hover{
 	background-color: black;
 }
 
+nav#indexnav1 #onpage{
+  text-decoration: underline;
+}
+
 .pic{
 	text-align: left;
 }
@@ -55,4 +59,16 @@ nav#indexnav1 ul li a:hover{
 img{
     display: block;
     margin-right: auto;
+}
+
+iframe{
+    padding:50 0px;
+    height: auto;
+    width: 48%;
+}
+
+p{
+	 font-family:'Vardana';
+	 font-size: 18px;
+	 text-align: left;
 }

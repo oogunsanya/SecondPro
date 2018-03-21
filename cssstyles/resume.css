@@ -26,6 +26,10 @@ nav#indexnav ul li a:hover{
 	background-color: orange;
 }
 
+nav#indexnav #onpage{
+  text-decoration: underline;
+}
+
 
 h1{
   font-family: cursive;

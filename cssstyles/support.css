@@ -48,3 +48,12 @@ nav#indexnav1 ul li a:hover{
 	background-color: black;
 }
 
+nav#indexnav1 #onpage{
+  text-decoration: underline;
+}
+
+p{
+	 font-family:'Vardana';
+	 font-size: 18px;
+	 text-align: center;
+}
