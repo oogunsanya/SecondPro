@@ -16,8 +16,7 @@ h3{
 }
 
 body{
-		background-color:  ;
-		text-align: center;
+		background-color:  
 }
 
 nav#indexnav1 ul {
@@ -59,6 +58,11 @@ nav#indexnav1 #onpage{
 img{
     display: block;
     margin-right: auto;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
 }
 p{
 	 font-family:'Vardana';
