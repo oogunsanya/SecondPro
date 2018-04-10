@@ -1,7 +1,7 @@
 nav#indexnav ul {
 	list-style-type: none;
 	padding: 0;
-	margin: 0;
+	margin: 25;
 	overflow: hidden;
 }
 
@@ -19,7 +19,7 @@ nav#indexnav ul li a {
 	text-align: center;
 	width: 100px;
 	padding: 5px 0px;
-	border-radius: 20px; 
+	border-radius: 30px; 
 }
 
 nav#indexnav ul li a:hover{
@@ -30,10 +30,28 @@ nav#indexnav #onpage{
   text-decoration: underline;
 }
 
+#yel{
+  font-family: cursive;
+  text-align: center;
+  font-size: 45px;
+  color: orange;
+}
+
+#di{
+  font-family:'Brush Script MT', cursive;
+  text-align:  center;
+  font-size: 40px;
+  color: gray;
+}
+
+body{
+		text-align: center;
+}
+
 nav#indexnav11 ul {
 	list-style-type: none;
 	padding: 0;
-	margin: 0;
+	margin: 25;
 	overflow: hidden;
 }
 
@@ -62,34 +80,60 @@ nav#indexnav11 #onpage{
   text-decoration: underline;
 }
 
-h1{
+
+#pic{
+	text-align: left;
+  font-family: cursive;
+  text-align: left;
+  font-size: 45px;
+  color: red;
+  padding: 0px 10px;
+}
+
+#med{
+	display: block;
+	margin-right: auto;
+	padding: 0px 10px;
+}
+
+#pics{
+  font-family:'Brush Script MT', cursive;
+  text-align:  left;
+  font-size: 40px;
+  color: black;
+  padding: 0px 10px;
+}
+
+#pi{
+	font-family:'Vardana';
+	 font-size: 18px;
+	 text-align: left;
+	 padding: 0px 10px;
+}
+
+#cur{
   font-family: cursive;
   text-align: center;
   font-size: 45px;
   color: orange;
 }
-.pic {
-	text-align: left;
+
+#info{
+	 font-family:'Vardana';
+	 font-size: 18px;
+	 text-align: center;
+}
+
+#wel{
   font-family: cursive;
   text-align: center;
   font-size: 45px;
   color: red;
 }
 
-.pics {
+#we{
   font-family:'Brush Script MT', cursive;
   text-align:  center;
   font-size: 40px;
   color: black;
-}
-
-h3{
-  font-family:'Brush Script MT', cursive;
-  text-align:  center;
-  font-size: 40px;
-  color: gray;
-}
-
-body{
-		text-align: center;
 }
